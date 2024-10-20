@@ -1,0 +1,14 @@
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\bin\Debug\net9.0\Project Hw 1.exe
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\bin\Debug\net9.0\Project Hw 1.deps.json
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\bin\Debug\net9.0\Project Hw 1.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\bin\Debug\net9.0\Project Hw 1.dll
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\bin\Debug\net9.0\Project Hw 1.pdb
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.dll
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\refint\Project Hw 1.dll
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.pdb
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\Project Hw 1.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive\Documents\GitHub\KevinStefanTetoianu\Project Hw 1\obj\Debug\net9.0\ref\Project Hw 1.dll
