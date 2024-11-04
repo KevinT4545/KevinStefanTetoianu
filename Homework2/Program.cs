@@ -9,9 +9,11 @@ static void Main(string[]args){
 
     Book book1 = new Book ("Metro 2034","Dmitri Gluhovski");
     Console.WriteLine(book1.ToString());
+    book1.CheckOut();
 
     Book book2 = new Book ("The Lightning Thief","Rick Riordan", 416);
     Console.WriteLine(book2.ToString());
+    book2.ReturnBook();
         }
     }
 }
